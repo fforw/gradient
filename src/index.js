@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import Color from "./Color";
 import Gradient from "./Gradient";
 import chalk from "chalk";
