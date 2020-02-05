@@ -20,8 +20,6 @@ function name(idx)
     return "$gray-" + (idx * 100);
 }
 
-console.log({argv})
-
 let gradientLength = argv.length || 10;
 const bootstrap = argv.bootstrap;
 
